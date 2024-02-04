@@ -1,0 +1,74 @@
+nav{
+  float: right;
+  height: 70px;
+ 
+  z-index: 2;
+  display: flex;
+    list-style-type:none ;
+   padding: 10px;
+ 
+}
+.logo {float: left;
+  inline-size: auto;
+
+}
+.AboutMe{
+  display: flex;
+  border: 1px solid brown;
+  padding: 5px;
+  justify-content: space-around;
+}
+
+.img{
+  width: 20%;
+  height: 20%;
+}
+li{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: large;
+  font-style: italic;
+  text-align: justify;
+  display: flex;
+
+ 
+}
+.MyWork{
+  text-align: center;
+  color: black;
+}
+
+.orange{
+  color: brown;
+}
+.text-center{
+text-align: center;
+color: black;
+}
+
+.Design{ 
+  border: 1px solid rgb(42, 165, 144);
+  width: 46%;
+  display: flex;
+}
+
+
+.Service-Boxes{
+  border: 1px solid brown;
+  display: flex;
+  justify-content: space-around;
+  padding: 5px;
+
+}
+
+.services{
+  display: flex;
+  background-color: #fafafa;
+ 
+}
+.small-box{
+  display: flex;
+  border:1px solid chocolate;
+  width: 40%;
+  justify-content: content  space-around;
+}
+
